@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Allison Eglow. ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,108 +11,85 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Trophy Employee",
+        "startDate": "2022",
+        "description": "I was responsible for developing the website for a startup company. The goal was to make a website that was simple and provide a 'Coming Soon' section for the software this company is building. ",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/Trophy Employee Website.png",
+          "images/portfolio/Trophy Employee Website Image2.png"
         ],
-        "url": "",
+        "url": "https://trophyemployee.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css-plain",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-php-plain",
+            "name": "PHP"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Livingston Philanthropies",
+        "startDate": "2019",
+        "description": "This was the first project I worked on when I starting my career. I built a website for a local non-profit so donors can find out more information about the non-profit.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/LPI Website Image.png",
+          "images/portfolio/LPI Website Image2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://njhomeless.org",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css-plain",
+            "name": "CSS"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Fiserv",
+        "title": "Developer",
+        "years": "04.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Java"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Angular"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "iCIMS",
+        "title": "Technical Support Engineer",
+        "years": "04.2021 - 04.2022",
         "mainTech": [
-          "Angular 7/8"
+          "HTML"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "HTML",
+          "CSS",
+          "REST API"
         ]
-      }
+      },
+      {"company": "iCIMS",
+        "title": "Operations Specialist",
+        "years": "10.2020 - 04.2021",
+        "mainTech": [
+          "HTML"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS"
+        ]}
     ]
   }
