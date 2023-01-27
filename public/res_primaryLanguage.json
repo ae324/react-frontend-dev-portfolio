@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Allison Eglow. ",
+      "description": "👋 I'm Allison Eglow. I'm working with newest front-end frameworks, such as Angular, React and Vue. I am inspired to create a more human-centered world, and finding the balance between beauty and function.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -25,8 +25,36 @@
             "name": "HTML"
           },
           {
-            "class": "devicon-css-plain",
+            "class": "devicon-css3-plain",
             "name": "CSS"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          }
+        ]
+      },
+      {
+        "title": "Pop-Ups For A Cause",
+        "startDate": "2022",
+        "description": "I was responsible for developing the website for a non-profit in North Carolina. ",
+        "images": [
+          "images/portfolio/PopUps Image1.png",
+          "images/portfolio/PopUps Image2.png"
+        ],
+        "url": "https://popupsforapurpose.org",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
             "class": "devicon-php-plain",
@@ -49,7 +77,7 @@
             "name": "HTML"
           },
           {
-            "class": "devicon-css-plain",
+            "class": "devicon-css3-plain",
             "name": "CSS"
           }
         ]
@@ -65,6 +93,7 @@
         ],
         "technologies": [
           "REST API",
+          "JavaScript",
           "Angular"
         ]
       },
@@ -77,8 +106,7 @@
         ],
         "technologies": [
           "HTML",
-          "CSS",
-          "REST API"
+          "CSS"
         ]
       },
       {"company": "iCIMS",
