@@ -10,6 +10,7 @@
       }
     },
     "projects": [
+
       {
         "title": "Trophy Employee",
         "startDate": "2022",
@@ -59,6 +60,24 @@
           {
             "class": "devicon-php-plain",
             "name": "PHP"
+          }
+        ]
+      },
+      { "title": "NFT Website",
+        "startDate": "2021",
+        "description": " I developed mockups for a potential NFT website. My designs were influenced by extensive research on current published NFT websites.",
+        "images": [
+          "images/portfolio/Screenshot 2023-01-31 at 11.28.46 AM.png",
+          "images/portfolio/NFT 1.png",
+          "images/portfolio/NFT 2.png",
+          "images/portfolio/NFT 3.png",
+          "images/portfolio/NFT 4.png"
+        ],
+        "url": "https://www.figma.com/proto/aQ2IrUsNW9AOJkiRB6e8m9/NFT-Mockups?page-id=0%3A1&node-id=5%3A3982&viewport=1699%2C1623%2C0.74&scaling=scale-down&starting-point-node-id=5%3A3982&show-proto-sidebar=1",
+        "technologies": [
+          {
+            "class": "devicon-figma-plain",
+            "name": "Figma"
           }
         ]
       },
